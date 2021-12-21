@@ -113,3 +113,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+repository: KiwiChat/mm
+
+comments:
+  provider: "staticman_v2"
+  staticman:
+    branch: "master"
+    endpoint: https://api.staticman.ml/v3/entry/github/
+
+staticman:
+  branch: "master"
