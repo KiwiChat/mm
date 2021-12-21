@@ -25,6 +25,11 @@
   <form method="POST" action="{{ site.staticman_url }}">
     <input name="options[redirect]" type="hidden" value="https://example.com">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+      
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="6LfFLpodAAAAACC_u_bKH-RwEw3e_-Wg_blA_TVS">
+    <input type="hidden" name="options[reCaptcha][secret]" value="gcEXYxC0waOoRlMRpx8zlnv3nLZ8MtLTRS1unuqMc3UAOXUSnKy1LFios98lGnrsMwuILwKAs5faC0GFhOMfyUsXLbE8GAv3hKZeathKtbjG1kwFU5htNzC4CSamMSh4XS18uX1I78b5YhLcWEwODTM5lVxREq9PEnbJxQEoL24=">
+
+      
       <label>Name</label>
       <input name="fields[name]" type="text">
       <label>E-mail (optional)</label>
@@ -34,5 +39,11 @@
       <label>Message</label>
       <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
       <small>Comments will appear after moderation.</small>
+      
+       <div 
+    class="g-recaptcha" 
+    data-sitekey="6LfFLpodAAAAACC_u_bKH-RwEw3e_-Wg_blA_TVS"
+  ></div>
+      
       <button type="submit">Submit comment</button>
   </form>
