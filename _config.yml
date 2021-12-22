@@ -84,6 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kiwichat"
+    - label: "WordPress"
+      icon: "fab fa-fw fa-wordpress"
+      url: "https://wordpress.org/plugins/kiwichat"
 
 defaults:
   # _posts
