@@ -33,37 +33,6 @@
       <input name="fields[url]" type="url">
       <label>Message</label>
       <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
-      
-    
-         {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}
-         {% if site.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">{% endif %}
-      
-     <!-- Start comment form alert messaging -->
-              <p class="hidden js-notice">
-                <strong class="js-notice-text"></strong>
-              </p>
-              <!-- End comment form alert messaging -->
-              {% if site.reCaptcha.siteKey %}
-                <div class="form-group">
-                  <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-                </div>
-      
       <small>Comments will appear after moderation.</small>   
       <button type="submit">Submit comment</button>
   </form>
-
- <!-- End new comment form -->
-          {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
-<script>
-function showReCaptcha() {
-  var node = document.createElement("div");
-  node.setAttribute('class', 'g-recaptcha');
-  node.setAttribute('data-sitekey', '{{ site.reCaptcha.siteKey }}');
-  if (window.matchMedia && 
-      window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      node.setAttribute('data-theme', "dark");
-  }
-  document.getElementById("reCaptcha").appendChild(node);
-}
-showReCaptcha();
-</script>
