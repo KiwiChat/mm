@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "KiwiChat"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/oscar.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
