@@ -67,3 +67,8 @@ header:
 ### License
 
 KiwiChat is distributed by an [GPLv3 or later](http://www.gnu.org/licenses/gpl-3.0.html).
+
+
+<!-- github  button -->
+<a class="github-button" href="https://github.com/KiwiChat/wp-kiwichat" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View it on GitHub">View it on GitHub</a>
+   
