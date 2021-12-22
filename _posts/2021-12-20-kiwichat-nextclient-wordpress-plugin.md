@@ -8,7 +8,7 @@ tags:
   - updat
 header:
   teaser: https://ps.w.org/kiwichat/assets/banner-772x250.pngg
-  image: https://ps.w.org/kiwichat/assets/screenshot-1.png
+  image: /assets/plugin/screenshot-1.png
 ---
 
 
