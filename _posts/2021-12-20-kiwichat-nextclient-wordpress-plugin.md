@@ -1,11 +1,17 @@
 ---
-title: KiwiChat NextClient WordPress plugin
-date: 2021-12-20
+title: "KiwiChat NextClient WordPress plugin"
+date: 2021-12-20-18T20:34:30-04:00
+categories:
+  - blog
+tags:
+  - Jekyll
+  - updat
 header:
   teaser: https://ps.w.org/kiwichat/assets/banner-772x250.pngg
   image: https://ps.w.org/kiwichat/assets/screenshot-1.png
-
 ---
+
+
 ### KiwiChat NextClient WordPress plugin
 
 Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
