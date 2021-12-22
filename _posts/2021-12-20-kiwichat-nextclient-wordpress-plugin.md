@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - updat
 header:
-  teaser: /assets/plugin/screenshot-1.png
+  teaser: /assets/plugin/banner-772x250.png
   image: /assets/plugin/screenshot-1.png
 ---
 
