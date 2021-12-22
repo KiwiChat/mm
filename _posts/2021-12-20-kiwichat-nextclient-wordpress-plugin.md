@@ -12,12 +12,10 @@ header:
   teaser: /assets/plugin/banner-772x250.png
 ---
 
-
-# KiwiChat NextClient WordPress plugin
+#### KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
+#### Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
 
 ![screenshot](/assets/plugin/screenshot-1.png)
-#### Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
-#### KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
 
 ## Description
 
