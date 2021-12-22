@@ -23,5 +23,5 @@ How to use KiwiChat… Finally there is an IRC plugin for WordPress that works! 
 
   1 Simply download and extract it into your plugins folder
   2 Configure your settings in the WordPress dashboard
-  3 Then drop the short tag ```[kiwichat]``` into your page or post. Instantly your users will be able to stay connected via IRC.
+  3 Then drop the short tag `[kiwichat]` into your page or post. Instantly your users will be able to stay connected via IRC.
 
