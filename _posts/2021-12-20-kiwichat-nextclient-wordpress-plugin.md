@@ -4,8 +4,10 @@ date: 2021-12-20-18T20:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - updat
+  - wordpress
+  - plugin
+  - irc
+  - chat
 header:
   teaser: /assets/plugin/banner-772x250.png
   image: /assets/plugin/screenshot-1.png
