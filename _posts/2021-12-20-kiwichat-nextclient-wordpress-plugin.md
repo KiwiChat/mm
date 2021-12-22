@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - updat
 header:
-  teaser: https://ps.w.org/kiwichat/assets/banner-772x250.pngg
+  teaser: /assets/plugin/screenshot-1.png
   image: /assets/plugin/screenshot-1.png
 ---
 
