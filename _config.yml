@@ -26,6 +26,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+teaser: /assets/plugin/banner-772x250.png
 
 # Build settings
 markdown: kramdown
