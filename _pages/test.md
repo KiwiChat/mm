@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: home
+layout: home2
 permalink: /test
 author_profile: true
 ---
